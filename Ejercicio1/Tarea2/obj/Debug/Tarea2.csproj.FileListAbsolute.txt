@@ -1,0 +1,7 @@
+E:\aleix\Documents\SALLENET\M09-UF2\Practica_M09-UF2\Ejercicio1\Tarea2\bin\Debug\Tarea2.exe.config
+E:\aleix\Documents\SALLENET\M09-UF2\Practica_M09-UF2\Ejercicio1\Tarea2\bin\Debug\Tarea2.exe
+E:\aleix\Documents\SALLENET\M09-UF2\Practica_M09-UF2\Ejercicio1\Tarea2\bin\Debug\Tarea2.pdb
+E:\aleix\Documents\SALLENET\M09-UF2\Practica_M09-UF2\Ejercicio1\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+E:\aleix\Documents\SALLENET\M09-UF2\Practica_M09-UF2\Ejercicio1\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+E:\aleix\Documents\SALLENET\M09-UF2\Practica_M09-UF2\Ejercicio1\Tarea2\obj\Debug\Tarea2.exe
+E:\aleix\Documents\SALLENET\M09-UF2\Practica_M09-UF2\Ejercicio1\Tarea2\obj\Debug\Tarea2.pdb
