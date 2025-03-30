@@ -35,5 +35,4 @@ Otra opción sería usar un **diccionario ordenado (`SortedDictionary<int, Pacie
 - Este método permitiría más flexibilidad en la gestión de pacientes con diferentes tiempos de espera y prioridad.
 
 ## Capturas de pantalla
-Console.WriteLine("Presiona Enter para salir...");
-Console.ReadLine();
+![Captura](IMG/img.png)

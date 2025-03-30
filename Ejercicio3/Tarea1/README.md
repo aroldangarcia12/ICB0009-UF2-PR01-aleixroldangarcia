@@ -60,7 +60,7 @@ Este proyecto simula la llegada y atención de pacientes en un hospital utilizan
 - Se podría implementar un sistema de logs que permita ver el comportamiento de la simulación sin sobrecargar la consola.
 
 ## Capturas de pantalla
-![Captura de pantalla](IMG/img1.png)
+![Captura de pantalla](IMG/img.png)
 ![Captura de pantalla](IMG/img2.png)
 ![Captura de pantalla](IMG/img3.png)
 
