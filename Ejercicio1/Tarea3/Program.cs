@@ -81,6 +81,9 @@ class Program
         }
 
         Console.WriteLine("Todos los pacientes han sido atendidos.");
+        Console.WriteLine("Presiona cualquier tecla para salir...");
+        Console.ReadKey();
+
     }
 }
 
