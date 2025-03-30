@@ -1,0 +1,2 @@
+E:\aleix\Documents\SALLENET\M09-UF2\Practica_M09-UF2\Ejercicio2\Tarea4\obj\Debug\Tarea4.csproj.AssemblyReference.cache
+E:\aleix\Documents\SALLENET\M09-UF2\Practica_M09-UF2\Ejercicio2\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
